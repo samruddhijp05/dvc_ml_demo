@@ -88,5 +88,5 @@ touch dvc.yaml
 
   ##STEP 12: push the changes to remote repository
   git add .
-git commit -m "stage 01 added"
-git push origin main
+  git commit -m "stage 01 added"
+  git push origin main
